@@ -31,6 +31,7 @@ namespace GetWeatherData
                         "</html>";
                     File.WriteAllTextAsync(airport + ".html", data);
                 }
+                vorher = webData;
                 System.Threading.Thread.Sleep(60 * 1000);
             }
         }
