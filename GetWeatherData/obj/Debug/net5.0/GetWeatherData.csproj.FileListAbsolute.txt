@@ -1,0 +1,16 @@
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\bin\Debug\net5.0\GetWeatherData.exe
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\bin\Debug\net5.0\GetWeatherData.deps.json
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\bin\Debug\net5.0\GetWeatherData.runtimeconfig.json
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\bin\Debug\net5.0\GetWeatherData.runtimeconfig.dev.json
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\bin\Debug\net5.0\GetWeatherData.dll
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\bin\Debug\net5.0\ref\GetWeatherData.dll
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\bin\Debug\net5.0\GetWeatherData.pdb
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\obj\Debug\net5.0\GetWeatherData.csprojAssemblyReference.cache
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\obj\Debug\net5.0\GetWeatherData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\obj\Debug\net5.0\GetWeatherData.AssemblyInfoInputs.cache
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\obj\Debug\net5.0\GetWeatherData.AssemblyInfo.cs
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\obj\Debug\net5.0\GetWeatherData.csproj.CoreCompileInputs.cache
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\obj\Debug\net5.0\GetWeatherData.dll
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\obj\Debug\net5.0\ref\GetWeatherData.dll
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\obj\Debug\net5.0\GetWeatherData.pdb
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\obj\Debug\net5.0\GetWeatherData.genruntimeconfig.cache
