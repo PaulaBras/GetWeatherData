@@ -20,9 +20,9 @@ namespace GetWeatherData
                     Console.WriteLine(webData);
                     string data =
                         "<html>\n" +
-                        "<head>\n" +
+                        "   <head>\n" +
                         "       <meta http-equiv='refresh' content='60'>\n" +
-                        "</head>\n" +
+                        "   </head>\n" +
                         "   <body>\n" +
                         "       <pre style='word - wrap: break-word; white - space: pre - wrap; '>\n" +
                         webData +
