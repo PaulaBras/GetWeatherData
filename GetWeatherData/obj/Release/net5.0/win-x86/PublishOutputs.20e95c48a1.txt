@@ -1,0 +1,6 @@
+D:\Cloud\GitHub\GetWeatherData\publish\GetWeatherData.pdb
+D:\Cloud\GitHub\GetWeatherData\publish\clrcompression.dll
+D:\Cloud\GitHub\GetWeatherData\publish\clrjit.dll
+D:\Cloud\GitHub\GetWeatherData\publish\coreclr.dll
+D:\Cloud\GitHub\GetWeatherData\publish\mscordaccore.dll
+D:\Cloud\GitHub\GetWeatherData\publish\GetWeatherData.exe

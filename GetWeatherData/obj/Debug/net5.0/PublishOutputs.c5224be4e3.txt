@@ -1,0 +1,5 @@
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\bin\Debug\net5.0\publish\GetWeatherData.exe
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\bin\Debug\net5.0\publish\GetWeatherData.dll
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\bin\Debug\net5.0\publish\GetWeatherData.deps.json
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\bin\Debug\net5.0\publish\GetWeatherData.runtimeconfig.json
+D:\Cloud\GitHub\GetWeatherData\GetWeatherData\bin\Debug\net5.0\publish\GetWeatherData.pdb
