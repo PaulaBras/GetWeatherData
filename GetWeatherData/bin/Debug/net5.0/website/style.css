@@ -1,0 +1,13 @@
+.align{
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+.outputs{
+	font: bold 20px monospace;
+	color: lightgray;
+	display: inline-block;
+	border-radius: 5px;
+	padding: 2px 5px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
